@@ -21,7 +21,7 @@ setup(
         "pytest-cov",
         "pytest-timeout",
         "pyyaml",
-        "requests==2.24.0",
+        "requests==2.31.0",
         "terminaltables",
         "webpreview",
         "yq",
